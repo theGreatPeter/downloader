@@ -1,6 +1,10 @@
-# Downloaded list :
+# Downloads
 
-- [vid](./vid)
+---
+
+## NO FILE DOWNLOADED YET!
+
+Use the download workflows to add files here.
 
 ---
 
