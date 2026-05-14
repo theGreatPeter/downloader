@@ -1,5 +1,6 @@
 # Downloaded list :
 
+- [vi](./vi)
 - [vid](./vid)
 
 ---
